@@ -1,6 +1,9 @@
 # ic-denetim-anketi-uygulamasinda-surec-iyilestirme-
 İç denetim anketlerinin standartlaştırılması, Power BI dashboardları ve web tabanlı raporlama sistemi.
 
+## Not
+Bu repository'de yer alan görseller ve örnek veriler yalnızca projenin yapısını ve geliştirilen çözümü göstermek amacıyla paylaşılmıştır. Gizlilik ilkeleri gereği kurum bilgileri anonimleştirilmiş, gerçek veriler paylaşılmamış ve örnek sayısal veriler kullanılmıştır.
+
 ## Proje Hakkında
 
 Bu proje, iç denetim süreçlerinin analiz edilmesi, anket değerlendirme yapısının standartlaştırılması ve karar verme sürecini destekleyen veri odaklı bir raporlama sistemi geliştirilmesi amacıyla hazırlanmıştır.
