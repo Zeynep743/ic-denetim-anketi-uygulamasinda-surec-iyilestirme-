@@ -48,11 +48,7 @@ Açık uçlu sorulara verilen yanıtlar analiz edilerek kullanıcıların geri b
 ![Açık Uçlu Yanıt Analizi](powerbi-acikuclu.png)
 ---
 
-### Trend Analizi Dashboardı
 
-Anket sonuçlarının dönemlere göre değişimi analiz edilerek performans eğilimleri takip edilmektedir.
-
-![Trend Analizi](powerbi-trend.png)
 
 ---
 
