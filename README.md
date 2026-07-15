@@ -28,7 +28,7 @@ Proje kapsamında mevcut anket yapısı analiz edilmiş, farklı dönemlerde kul
 
 Kurum genelindeki performans göstergeleri ve anket sonuçlarının özet görünümü sunulmaktadır.
 
-![Genel Dashboard](powerbi-genel.png)
+![Genel Dashboard](powerbi-genel.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Kurum genelindeki performans göstergeleri ve anket sonuçlarının özet görü
 
 Anket boyutları karşılaştırılarak güçlü ve gelişime açık alanlar analiz edilmektedir.
 
-![Boyut Analizi](powerbi-boyut.png)
+![Boyut Analizi](powerbi-boyut.jpg)
 
 ---
 
