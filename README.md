@@ -37,7 +37,7 @@ Genel özet sayfasında kurum genelindeki ortalama puan, anket türlerine göre 
 
 Bu sayfada birimlerin ortalama puanları karşılaştırılmakta, kurum ortalaması ile kıyaslanmakta ve boyut bazında performans değerlendirmeleri sunulmaktadır.
 
-![Birim Analizi](powerbi-birim.png)
+![Birim Analizi](powerbi-birim.jpg)
 
 ---
 
