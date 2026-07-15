@@ -26,26 +26,26 @@ Proje kapsamında mevcut anket yapısı analiz edilmiş, farklı dönemlerde kul
 
 ### Genel Değerlendirme Dashboardı
 
-Kurum genelindeki performans göstergeleri ve anket sonuçlarının özet görünümü sunulmaktadır.
+Genel özet sayfasında kurum genelindeki ortalama puan, anket türlerine göre ortalama puanlar, yıllara göre trend grafiği, boyut bazlı ortalamalar ve açık uçlu yanıtların özetlenmesi amacıyla oluşturulan kelime bulutu yer almaktadır.( Gizlilik ve veri güvenliği nedeniyle , projede yer alan örneklerde ise gerçek veriler yerine örnek sayısal veriler kullanılmıştır.)
+
 
 ![Genel Dashboard](powerbi-genel.jpg)
 
 ---
 
-### Boyut Analizi Dashboardı
-
-Anket boyutları karşılaştırılarak güçlü ve gelişime açık alanlar analiz edilmektedir.
-
-![Boyut Analizi](powerbi-boyut.jpg)
-
----
-
 ### Birim Analizi Dashboardı
 
-Birim performansları karşılaştırılmakta ve kurum ortalaması ile değerlendirilmektedir.
+Bu sayfada birimlerin ortalama puanları karşılaştırılmakta, kurum ortalaması ile kıyaslanmakta ve boyut bazında performans değerlendirmeleri sunulmaktadır.
 
 ![Birim Analizi](powerbi-birim.png)
 
+---
+
+### Açık Uçlu Yanıt Analizi
+
+Açık uçlu sorulara verilen yanıtlar analiz edilerek kullanıcıların geri bildirimleri incelenebilmektedir. Gizlilik ve veri güvenliği nedeniyle ekran görüntüsündeki metinler sansürlenmiştir.
+
+![Açık Uçlu Yanıt Analizi](powerbi-acikuclu.png)
 ---
 
 ### Trend Analizi Dashboardı
