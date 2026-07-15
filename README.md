@@ -83,13 +83,6 @@ Birim performansları karşılaştırılarak detaylı değerlendirmeler sunulmak
 
 ![Birim Analizi](web-birim.png)
 
----
-
-### Trend Analizi Sayfası
-
-Anket sonuçlarının dönemsel değişimi analiz edilerek performans eğilimleri görselleştirilmektedir.
-
-![Trend Analizi](web-trend.png)
 
 ---
 
